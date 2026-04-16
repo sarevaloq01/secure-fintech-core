@@ -1,0 +1,14 @@
+# Secretos y entorno
+.env
+config.ini
+*.key
+*.pem
+
+# Python y dependencias
+venv/
+__pycache__/
+*.pyc
+
+# Editores
+.vscode/
+.idea/
